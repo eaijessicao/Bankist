@@ -8,8 +8,9 @@ body {
   font-family: 'Poppins', sans-serif;
   font-weight: 300;
   color: #444;
-  width: 1300px;
-  margin: auto;
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 100%;
   }
 
   .top {
@@ -93,8 +94,7 @@ body {
       width: 40%;
      }
 
-     /* feature */
-
+ 
      .features__img {
       width: 100%;
     }
@@ -348,7 +348,6 @@ background-color:  #5ec576;
 /* FOOTER */
 .footer {
   background-color: #37383d;
-  margin: auto -19rem;
 }
 
 .footer__nav {
